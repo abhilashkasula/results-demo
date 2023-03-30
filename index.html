@@ -136,7 +136,7 @@
         const pin = document.querySelector('#pin');
         const pinNo = pin.value.trim();
         if (pinNo) {
-          const student = results.sem_1.find(student => student.pin === pinNo);
+          const student = results.sem_1.find(student => student.pin.toLowerCase() === pinNo.toLowerCase());
           if (!student) {
             document.querySelector("#result").innerHTML = '<p class="error">No record found!</p>'
             return
