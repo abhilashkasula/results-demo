@@ -184,7 +184,7 @@
       };
 
       window.onload = () => {
-        fetch('/results.json')
+        fetch('results.json')
           .then(res => res.json())
           .then(data => {
             results = data;
