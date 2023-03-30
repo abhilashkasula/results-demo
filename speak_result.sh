@@ -2,7 +2,7 @@
 
 RESULTS=$(curl -s https://abhilashkasula.github.io/results-demo/results.json)
 
-PIN=$1
+PIN=$(echo $1 | awk '{print toupper($0)}')
 
 STUDENT=$(echo $RESULTS | jq ". | .sem_1[] | select(.pin==\"$PIN\")")
 

@@ -25,20 +25,20 @@
         {
           "subject_code": 104,
           "external": 22,
-          "internal": 7,
-          "is_passed": false
+          "internal": 17,
+          "is_passed": true
         },
         {
           "subject_code": 105,
-          "external": 17,
-          "internal": 1,
-          "is_passed": false
+          "external": 27,
+          "internal": 11,
+          "is_passed": true
         },
         {
           "subject_code": 106,
-          "external": 17,
+          "external": 27,
           "internal": 15,
-          "is_passed": false
+          "is_passed": true
         },
         {
           "subject_code": 107,
@@ -60,9 +60,9 @@
         },
         {
           "subject_code": 110,
-          "external": 14,
+          "external": 44,
           "internal": 9,
-          "is_passed": false
+          "is_passed": true
         },
         {
           "subject_code": 111,
