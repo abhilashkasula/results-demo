@@ -1,1300 +1,1444 @@
 {
-    "sem_1": [
+  "sem_1": [
+    {
+      "pin": "16054-CP-001",
+      "name": "Abhilash Kasula",
+      "marks": [
         {
-            "pin": "16054-CP-001",
-            "name": "Abhilash Kasula",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 101,
+          "external": 47,
+          "internal": 79,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-002",
-            "name": "Naveen Kumar",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 102,
+          "external": 17,
+          "internal": 88,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-003",
-            "name": "Pawan Kalyan",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 103,
+          "external": 85,
+          "internal": 61,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-004",
-            "name": "Ramesh B",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 104,
+          "external": 88,
+          "internal": 100,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-005",
-            "name": "Nageshwar Reddy",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 105,
+          "external": 63,
+          "internal": 58,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-006",
-            "name": "Ramu",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 106,
+          "external": 44,
+          "internal": 88,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-007",
-            "name": "Narayana",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 107,
+          "external": 42,
+          "internal": 59,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-008",
-            "name": "Vishnu S",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 108,
+          "external": 65,
+          "internal": 92,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-009",
-            "name": "Vijaya Lakshmi",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 109,
+          "external": 10,
+          "internal": 98,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-010",
-            "name": "Sriharshini M",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 110,
+          "external": 84,
+          "internal": 66,
+          "is_passed": true
         },
         {
-            "pin": "16054-CP-011",
-            "name": "Bindu S",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-012",
-            "name": "Mahesh B",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-013",
-            "name": "Deepika K",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-015",
-            "name": "Anuhya",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-016",
-            "name": "Anjali",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-017",
-            "name": "Anumeha",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-018",
-            "name": "Akanksha",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
-        },
-        {
-            "pin": "16054-CP-019",
-            "name": "Akshara",
-            "marks": [
-                {
-                    "subject_code": 101,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 102,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 103,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 104,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 105,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 106,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 107,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 108,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 109,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 110,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                },
-                {
-                    "subject_code": 111,
-                    "external": 63,
-                    "internal": 15,
-                    "is_passed": true
-                }
-            ]
+          "subject_code": 111,
+          "external": 21,
+          "internal": 18,
+          "is_passed": true
         }
-    ]
+      ]
+    },
+    {
+      "pin": "16054-CP-002",
+      "name": "Naveen Kumar",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 73,
+          "internal": 25,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 42,
+          "internal": 24,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 96,
+          "internal": 13,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 95,
+          "internal": 7,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 47,
+          "internal": 50,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 75,
+          "internal": 69,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 28,
+          "internal": 17,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 28,
+          "internal": 17,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 51,
+          "internal": 27,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 18,
+          "internal": 84,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 12,
+          "internal": 29,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-003",
+      "name": "Pawan Kalyan",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 9,
+          "internal": 85,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 32,
+          "internal": 22,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 14,
+          "internal": 26,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 44,
+          "internal": 54,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 70,
+          "internal": 86,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 99,
+          "internal": 87,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 87,
+          "internal": 54,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 67,
+          "internal": 73,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 91,
+          "internal": 79,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 84,
+          "internal": 29,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 11,
+          "internal": 94,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-004",
+      "name": "Ramesh B",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 18,
+          "internal": 41,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 85,
+          "internal": 21,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 9,
+          "internal": 14,
+          "is_passed": false
+        },
+        {
+          "subject_code": 104,
+          "external": 30,
+          "internal": 2,
+          "is_passed": false
+        },
+        {
+          "subject_code": 105,
+          "external": 47,
+          "internal": 64,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 75,
+          "internal": 34,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 7,
+          "internal": 52,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 61,
+          "internal": 86,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 56,
+          "internal": 3,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 71,
+          "internal": 91,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 32,
+          "internal": 60,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-005",
+      "name": "Nageshwar Reddy",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 78,
+          "internal": 58,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 52,
+          "internal": 34,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 69,
+          "internal": 86,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 4,
+          "internal": 100,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 40,
+          "internal": 2,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 19,
+          "internal": 63,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 28,
+          "internal": 4,
+          "is_passed": false
+        },
+        {
+          "subject_code": 108,
+          "external": 34,
+          "internal": 12,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 98,
+          "internal": 94,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 9,
+          "internal": 60,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 42,
+          "internal": 40,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-006",
+      "name": "Ramu",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 11,
+          "internal": 74,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 6,
+          "internal": 64,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 90,
+          "internal": 45,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 46,
+          "internal": 48,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 32,
+          "internal": 82,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 18,
+          "internal": 36,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 87,
+          "internal": 10,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 18,
+          "internal": 65,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 35,
+          "internal": 48,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 66,
+          "internal": 98,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 91,
+          "internal": 81,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-007",
+      "name": "Narayana",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 28,
+          "internal": 50,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 9,
+          "internal": 87,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 59,
+          "internal": 63,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 99,
+          "internal": 39,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 71,
+          "internal": 73,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 54,
+          "internal": 70,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 15,
+          "internal": 81,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 34,
+          "internal": 45,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 30,
+          "internal": 45,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 18,
+          "internal": 84,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 5,
+          "internal": 65,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-008",
+      "name": "Vishnu S",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 61,
+          "internal": 45,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 58,
+          "internal": 65,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 45,
+          "internal": 80,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 65,
+          "internal": 72,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 9,
+          "internal": 12,
+          "is_passed": false
+        },
+        {
+          "subject_code": 106,
+          "external": 97,
+          "internal": 43,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 19,
+          "internal": 85,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 83,
+          "internal": 87,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 26,
+          "internal": 24,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 52,
+          "internal": 75,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 58,
+          "internal": 100,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-009",
+      "name": "Vijaya Lakshmi",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 7,
+          "internal": 40,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 6,
+          "internal": 39,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 95,
+          "internal": 61,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 6,
+          "internal": 59,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 32,
+          "internal": 68,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 15,
+          "internal": 46,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 31,
+          "internal": 69,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 76,
+          "internal": 71,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 88,
+          "internal": 29,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 82,
+          "internal": 15,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 69,
+          "internal": 30,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-010",
+      "name": "Sriharshini M",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 75,
+          "internal": 89,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 93,
+          "internal": 9,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 79,
+          "internal": 75,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 91,
+          "internal": 18,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 79,
+          "internal": 18,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 39,
+          "internal": 25,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 8,
+          "internal": 98,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 32,
+          "internal": 35,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 89,
+          "internal": 78,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 51,
+          "internal": 20,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 21,
+          "internal": 67,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-011",
+      "name": "Bindu S",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 8,
+          "internal": 25,
+          "is_passed": false
+        },
+        {
+          "subject_code": 102,
+          "external": 98,
+          "internal": 51,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 45,
+          "internal": 85,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 25,
+          "internal": 64,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 49,
+          "internal": 65,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 86,
+          "internal": 12,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 92,
+          "internal": 60,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 32,
+          "internal": 57,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 12,
+          "internal": 24,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 47,
+          "internal": 18,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 22,
+          "internal": 17,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-012",
+      "name": "Mahesh B",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 2,
+          "internal": 32,
+          "is_passed": false
+        },
+        {
+          "subject_code": 102,
+          "external": 18,
+          "internal": 48,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 17,
+          "internal": 56,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 5,
+          "internal": 86,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 41,
+          "internal": 21,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 30,
+          "internal": 6,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 98,
+          "internal": 58,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 65,
+          "internal": 82,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 35,
+          "internal": 79,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 65,
+          "internal": 30,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 42,
+          "internal": 38,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-013",
+      "name": "Deepika K",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 43,
+          "internal": 67,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 42,
+          "internal": 74,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 92,
+          "internal": 32,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 46,
+          "internal": 17,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 17,
+          "internal": 17,
+          "is_passed": false
+        },
+        {
+          "subject_code": 106,
+          "external": 6,
+          "internal": 27,
+          "is_passed": false
+        },
+        {
+          "subject_code": 107,
+          "external": 43,
+          "internal": 45,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 53,
+          "internal": 26,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 42,
+          "internal": 34,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 54,
+          "internal": 86,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 23,
+          "internal": 99,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-014",
+      "name": "Anuhya",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 82,
+          "internal": 59,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 85,
+          "internal": 77,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 34,
+          "internal": 22,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 79,
+          "internal": 73,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 2,
+          "internal": 56,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 74,
+          "internal": 50,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 52,
+          "internal": 75,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 76,
+          "internal": 50,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 54,
+          "internal": 44,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 28,
+          "internal": 97,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 29,
+          "internal": 82,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-015",
+      "name": "Anjali",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 50,
+          "internal": 65,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 97,
+          "internal": 84,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 41,
+          "internal": 22,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 70,
+          "internal": 63,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 25,
+          "internal": 7,
+          "is_passed": false
+        },
+        {
+          "subject_code": 106,
+          "external": 40,
+          "internal": 50,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 69,
+          "internal": 93,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 41,
+          "internal": 29,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 79,
+          "internal": 39,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 92,
+          "internal": 34,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 83,
+          "internal": 60,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-016",
+      "name": "Anumeha",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 64,
+          "internal": 87,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 5,
+          "internal": 93,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 24,
+          "internal": 23,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 90,
+          "internal": 52,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 48,
+          "internal": 9,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 83,
+          "internal": 7,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 26,
+          "internal": 46,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 49,
+          "internal": 84,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 82,
+          "internal": 54,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 1,
+          "internal": 70,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 11,
+          "internal": 47,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-017",
+      "name": "Akanksha",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 40,
+          "internal": 4,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 95,
+          "internal": 90,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 12,
+          "internal": 15,
+          "is_passed": false
+        },
+        {
+          "subject_code": 104,
+          "external": 95,
+          "internal": 81,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 18,
+          "internal": 84,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 46,
+          "internal": 96,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 81,
+          "internal": 87,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 27,
+          "internal": 63,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 22,
+          "internal": 59,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 27,
+          "internal": 15,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 65,
+          "internal": 6,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-018",
+      "name": "Akshara",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 6,
+          "internal": 100,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 3,
+          "internal": 98,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 76,
+          "internal": 74,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 94,
+          "internal": 7,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 94,
+          "internal": 21,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 81,
+          "internal": 27,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 78,
+          "internal": 67,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 55,
+          "internal": 66,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 99,
+          "internal": 38,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 20,
+          "internal": 65,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 17,
+          "internal": 14,
+          "is_passed": false
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-019",
+      "name": "Bhavya",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 87,
+          "internal": 71,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 72,
+          "internal": 9,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 72,
+          "internal": 83,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 9,
+          "internal": 53,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 65,
+          "internal": 20,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 11,
+          "internal": 6,
+          "is_passed": false
+        },
+        {
+          "subject_code": 107,
+          "external": 78,
+          "internal": 57,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 65,
+          "internal": 13,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 27,
+          "internal": 97,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 62,
+          "internal": 90,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 64,
+          "internal": 63,
+          "is_passed": true
+        }
+      ]
+    },
+    {
+      "pin": "16054-CP-020",
+      "name": "Swathi",
+      "marks": [
+        {
+          "subject_code": 101,
+          "external": 71,
+          "internal": 7,
+          "is_passed": true
+        },
+        {
+          "subject_code": 102,
+          "external": 20,
+          "internal": 68,
+          "is_passed": true
+        },
+        {
+          "subject_code": 103,
+          "external": 35,
+          "internal": 33,
+          "is_passed": true
+        },
+        {
+          "subject_code": 104,
+          "external": 82,
+          "internal": 78,
+          "is_passed": true
+        },
+        {
+          "subject_code": 105,
+          "external": 95,
+          "internal": 12,
+          "is_passed": true
+        },
+        {
+          "subject_code": 106,
+          "external": 52,
+          "internal": 41,
+          "is_passed": true
+        },
+        {
+          "subject_code": 107,
+          "external": 47,
+          "internal": 39,
+          "is_passed": true
+        },
+        {
+          "subject_code": 108,
+          "external": 61,
+          "internal": 32,
+          "is_passed": true
+        },
+        {
+          "subject_code": 109,
+          "external": 45,
+          "internal": 49,
+          "is_passed": true
+        },
+        {
+          "subject_code": 110,
+          "external": 97,
+          "internal": 18,
+          "is_passed": true
+        },
+        {
+          "subject_code": 111,
+          "external": 84,
+          "internal": 89,
+          "is_passed": true
+        }
+      ]
+    }
+  ]
 }
