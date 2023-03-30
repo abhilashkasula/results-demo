@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1st Sem Results</title>
+    <style>
+      .headerContainer {
+        background: #0865a8;
+        color: #fdfef9;
+        padding: 5px 50px;
+      }
+
+      .header {
+        font-weight: 600;
+        font-size: 30px;
+      }
+
+      .title {
+        font-weight: 600;
+        font-size: 25px;
+        margin: 50px;
+      }
+
+      .titleContainer {
+        display: flex;
+        justify-content: center;
+      }
+
+      .result {
+        border-collapse: collapse;
+        text-align: left;
+        margin-top: 50px;
+        width: 720px;
+      }
+
+      .result th {
+        background-color: #c1d2e2 !important;
+        border: 1px #1e2ab7 solid !important;
+        font-size: 13px !important;
+        color: #000000 !important;
+        border-collapse: collapse !important;
+        border-spacing: 0px !important;
+        text-align: left !important;
+        padding: 5px 15px;
+        word-break: keep-all;
+        white-space: nowrap;
+      }
+
+      .result td {
+        border: 1px #1e2ab7 solid !important;
+        border-spacing: 0px !important;
+        vertical-align: middle;
+        font-size: 13px;
+        font-family: verdana;
+        font-weight: normal;
+        height: 20px;
+        padding: 7px;
+        background: #e6e8ff;
+      }
+
+      .input {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .required {
+        color: red;
+      }
+
+      #pin {
+        margin: 0 0 0 20px;
+        padding: 3px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+        color: #555;
+        font-size: 14px;
+        line-height: 1.42857143;
+      }
+
+      .submit {
+        color: #fff;
+        background-color: #337ab7;
+        border-color: #2e6da4;
+        padding: 6px 12px;
+        margin-top: 20px;
+        margin-bottom: 0;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        border: 1px solid transparent;
+        font-size: 14px;
+        line-height: 1.42857143;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      .error {
+        color: red;
+        text-align: center;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+          'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji',
+          'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+      }
+    </style>
+    <script>
+      const renderMarks = marks => {
+        return marks
+          .map(
+            subject => `
+                <tr>
+                    <th>${subject.subject_code}</th>
+                    <td>${subject.external}</td>
+                    <td>${subject.internal}</td>
+                    <td>${subject.external + subject.internal}</td>
+                    <td>${subject.is_passed ? 'P' : 'F'}</td>
+                </tr>
+            `
+          )
+          .join('\n');
+      };
+
+      const getResults = () => {
+        const pin = document.querySelector('#pin');
+        const pinNo = pin.value.trim();
+        if (pinNo) {
+          const student = results.sem_1.find(student => student.pin === pinNo);
+          if (!student) {
+            document.querySelector("#result").innerHTML = '<p class="error">No record found!</p>'
+            return
+          }
+          const html = `
+                <table class="result" border="1" cellpadding="0" width="60%" align="center">
+                    <tbody>
+                        <tr>
+                            <th>PIN</th>
+                            <td colspan="5">${student.pin}</td>
+                        </tr>
+                        <tr>
+                            <th>Name</th>
+                            <td colspan="5">${student.name}</td>
+                        </tr>
+                        <tr>
+                            <th><b>Paper</b></th>
+                            <td><b>External</b></td>
+                            <td><b>Internal</b></td>
+                            <td><b>Total</b></td>
+                            <td><b>Status</b></td>
+                        </tr>
+                        ${renderMarks(student.marks)}
+                        <tr>
+                            <th>Grand Total</th>
+                            <td colspan="5">${student.marks.reduce(
+                              (total, sub) =>
+                                total + sub.external + sub.internal,
+                              0
+                            )}</td>
+                        </tr>
+                        <tr>
+                            <th>Result</th>
+                            <td colspan="5">${
+                              student.marks.every(sub => sub.is_passed)
+                                ? 'PASS'
+                                : 'FAIL'
+                            }</td>
+                        </tr>
+                    </tbody>
+                </table>
+            `;
+          document.querySelector('#result').innerHTML = html;
+        }
+      };
+
+      window.onload = () => {
+        fetch('/results.json')
+          .then(res => res.json())
+          .then(data => {
+            results = data;
+          });
+      };
+    </script>
+  </head>
+  <body>
+    <div class="headerContainer">
+      <h1 class="header">Board of Technical Education</h1>
+    </div>
+    <div class="titleContainer">
+      <h1 class="title">1st Sem Results</h1>
+    </div>
+    <div class="form">
+      <div class="input">
+        PIN:<span class="required">* </span><input id="pin" type="text" />
+      </div>
+      <button class="submit" onclick="getResults() ">Submit</button>
+    </div>
+    <div id="result"></div>
+  </body>
+</html>
